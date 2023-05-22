@@ -2,7 +2,7 @@
 Brute force  admin panel  or another sites
 
 
-##install 
+## install 
 ```
 apt update -y 
 apt upgrade -y
