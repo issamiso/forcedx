@@ -24,7 +24,7 @@ def ban():
  / __/ /_/ / /  / /__/  __/ /_/ /   /   |  
 /_/  \____/_/   \___/\___/\__,_/   /_/|_| 
 
-{W}[{R}*{W}]{G} forced X {R}Brute force {P}v1\033[40m\033[1;30m By issam iso
+{W}[{R}*{W}]{G} forced X {R}Brute force {P}v1\033[40m\033[1;30m Bay issam iso
 {W}''')
 list=[]
 error=f'{W}[{R} ! {W}]{R} Error{GR} '
