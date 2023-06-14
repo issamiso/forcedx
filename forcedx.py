@@ -76,8 +76,8 @@ def bannerarg():
  / __/ /_/ / /  / /__/  __/ /_/ /   /   |  
 /_/  \____/_/   \___/\___/\__,_/   /_/|_| {G}{{✓}} {P}v1{W}   
 
-{W}[{R}?{W}] {G}use{O} python3 forced.py --help {W}
-{W}[{R}?{W}] {G}or use{O} python3 forced.py --yho	{GR} The best{W}
+{W}[{R}?{W}] {G}use{O} python3 forcedx.py --help {W}
+{W}[{R}?{W}] {G}or use{O} python3 forcedx.py --yho	{GR} The best{W}
 ''')
 
 
