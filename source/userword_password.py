@@ -11,9 +11,15 @@ import time
 import random
 import os
 import json
-import user_agent
+#import user_agent
 from bs4 import BeautifulSoup as bs
-user_=user_agent.generate_user_agent(os=('android'))
+#user_=user_agent.generate_user_agent(os=('android'))
+user_list=[]
+file=open('source/user_agent_list.txt','r').readlines()
+for uu in file:
+	uu=uu.strip()
+	user_list.append(uu)
+user_=random.choice(user_list)
 form_list=[]
 login_form=[]
 proxy_list=[]
