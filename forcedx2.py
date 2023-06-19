@@ -12,6 +12,15 @@ GR="\033[40m\033[1;30m"
 error=f"{R}[ ! ]{W} {GR}"
 done=f"{G}[ + ]{W} "
 start=f"{B}[ * ]{W} "
+import os
+try:
+	import requests
+	import mechanize
+	import user_agent
+	import bs4
+	import argparse
+except:
+	os.system("pip install requests && pip install mechanize && pip install user-agent && pip install bs4 && pip install argparse")
 import requests
 import mechanize
 import sys
