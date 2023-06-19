@@ -16,7 +16,7 @@ import os
 try:
 	import requests
 	import mechanize
-	import user_agent
+	import user-agent
 	import bs4
 	import argparse
 except:
