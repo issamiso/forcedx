@@ -1,6 +1,6 @@
 # forcedx
 Brute force  admin panel  or another sites
-It is a tool that makes guesses on any web page Brute force attack 
+It is a tool that makes guesses on any web page Brute force attack version 2
 ## install 
 ```
 apt update -y 
